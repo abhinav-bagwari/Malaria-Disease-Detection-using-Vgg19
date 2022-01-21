@@ -1,5 +1,9 @@
 # Malaria-Disease-Detection-using-Vgg19
 
+
+https://user-images.githubusercontent.com/71334027/150589212-b5376eb9-cf99-4f76-9a0a-c175e92517cd.mp4
+
+
 # Content
 - The dataset contains 2 folders
 ->Infected
@@ -11,3 +15,11 @@
 - To view this architecture completely, upload this malaria_model.h5 file in https://netron.app/
 - ![okay](https://user-images.githubusercontent.com/71334027/150370896-6068c405-50b4-4665-b84c-2f7986eebbf1.jpg)
 
+## How to Setup ?
+- a -> Unzip the file in a new folder
+- b -> Open terminal and create a new virtual environment as virtualenv 'name of venv' (without '')
+- c -> activate your terminate as name of venv\Scripts\activate
+- d -> pip install all the necessary libraries (also present in requirements.txt)
+- e -> run the command "python app.py"
+
+### There you go...
