@@ -51,9 +51,7 @@ $(document).ready(function () {
         });
     });
 
-    $(document).ready(function () {
     $('#btnPopover').popover();
-});
 
 });
 
