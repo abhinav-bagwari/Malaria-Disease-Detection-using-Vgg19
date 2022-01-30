@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/71334027/150589212-b5376eb9-cf99-4f76-
 - a -> Unzip the file in a new folder
 - b -> Open terminal and create a new virtual environment as virtualenv 'name of venv' (without '')
 - c -> activate your terminate as name of venv\Scripts\activate
-- d -> pip install all the necessary libraries (also present in requirements.txt)
+- d -> pip install all the necessary libraries "pip install -r requirements.txt"
 - e -> run the command "python app.py"
 
 ### There you go...
